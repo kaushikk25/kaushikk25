@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-<!--
-**kaushikk25/kaushikk25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Kaushik Kothiya
 
-Here are some ideas to get you started:
+<!-- ![](https://komarev.com/ghpvc/?username=kaushikk25&label=View+Counter) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Kaushik-blue)](https://www.linkedin.com/in/kaushik-kothiya-a94a9016a/) 
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Kaushik-yellowgreen)](https://www.kaggle.com/kaushikkothiya/)
+
+
+I'm interested in Machine  Data Science, Learning, Deep Learning, Computer Vision, Website Development etc...<br/>
+- ⚡️ Technologies I work with: Python, Machine Learning, Deep Learning, Python, HTML, CSS, JavaScript, AWS, SQL.
+- 👯 Looking for an Internship or Opportunity.
+
+Thanks a lot! ❤️
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kaushikk25&theme=nightowl&show_icons=true)
