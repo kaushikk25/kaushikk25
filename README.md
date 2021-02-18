@@ -4,7 +4,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=kaushikk25&label=View+Counter) -->
 
-[![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Kaushik-blue)](https://www.linkedin.com/in/kaushik-kothiya-a94a9016a/) 
+[![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Kaushik-blue)](https://www.linkedin.com/in/kaushik-kothiya) 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Kaushik-yellowgreen)](https://www.kaggle.com/kaushikkothiya/)
 
 
